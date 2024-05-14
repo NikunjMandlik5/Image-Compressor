@@ -1,0 +1,17 @@
+asgiref
+Django
+imageio
+joblib
+networkx
+numpy
+packaging
+Pillow
+pyparsing
+PyWavelets
+scikit-image
+scikit-learn
+scipy
+sqlparse
+threadpoolctl
+tifffile
+tzdata
